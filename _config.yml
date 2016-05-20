@@ -1,0 +1,28 @@
+name: wholeHeartedJourneys
+favicon: null
+layout_spectrum: 0.3813219720032066
+typography_spectrum: 0.4062144639901817
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9670642158016562
+  lightness: 0.13637963077053428
+  saturation: 0.9774489472620189
+  rhythmicContrast: 0.4161102946382016
+purpose: []
